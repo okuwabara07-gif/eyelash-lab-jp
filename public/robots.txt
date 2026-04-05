@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://eyelash-lab-jp.vercel.app/sitemap.xml
